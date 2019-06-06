@@ -1,0 +1,30 @@
+[
+  {
+    "hash": "2ada82c10b4973e464709b986637fd605336c6d4a76909269c6784c6e87891f5",
+    "previousHash": "0",
+    "usuario": "Genesis",
+    "contraseña": "0",
+    "timeStamp": 0
+  },
+  {
+    "hash": "097d785402a91489baebcababdfd5538a46b0be09e5904e60fd69e6bedebe8d7",
+    "previousHash": "2ada82c10b4973e464709b986637fd605336c6d4a76909269c6784c6e87891f5",
+    "usuario": "Ricardo",
+    "contraseña": "soysoy",
+    "timeStamp": 1559842871906
+  },
+  {
+    "hash": "2f8817f9aa092bf8cea369fbc3797126607d300a3e1a2dd351aaa0784896a7fd",
+    "previousHash": "097d785402a91489baebcababdfd5538a46b0be09e5904e60fd69e6bedebe8d7",
+    "usuario": "Felix",
+    "contraseña": "123xyz",
+    "timeStamp": 1559845508259
+  },
+  {
+    "hash": "d02916366c53aba8951d5bc816f9737a2fb61be1876f1c021c5b3bb08c3e0960",
+    "previousHash": "2f8817f9aa092bf8cea369fbc3797126607d300a3e1a2dd351aaa0784896a7fd",
+    "usuario": "Erick",
+    "contraseña": "123xyz",
+    "timeStamp": 1559851538101
+  }
+]
